@@ -6,7 +6,7 @@ Welcome to the GitHub repository of my personal portfolio!
 
 ## 🌐 Live Version
 
-You can visit the live version of my portfolio here: [my portfolio]
+You can visit the live version of my portfolio here: [my portfolio](https://erfan-hamidi.github.io/portfolio/)
 
 ## 🛠️ Built With
 
