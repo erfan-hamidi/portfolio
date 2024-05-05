@@ -125,7 +125,7 @@ section {
     background-image: linear-gradient(var(--main-color), var(--main-color));
     background-repeat: no-repeat;
     background-clip: text;
-    background-position: 0 0;
+    background-position: -33rem 0;
 }
 
 .home.show-animate .home-content .text-animate h3 {
@@ -724,7 +724,7 @@ span {
     animation: none;
 }
 
-section:nth-child(odd) .animate.scroll,
+section:nth-child(even) .animate.scroll,
 footer .animate.scroll {
     background: var(--second-bg-color);
 }
@@ -767,7 +767,7 @@ footer .animate.scroll {
     }
 }
 
-@media (max-width: 520px) {
+@media (max-width: 830px) {
     .animate.home-img {
         width: 55%;
     }
